@@ -16,6 +16,7 @@ TO INSTALL,
 Open Terminal 
 Change your working directory to Terminal Designer -> cd ~/Downloads/Terminal\ Designer
 Write the following -> sudo chmod a+x installer.sh
+Write the following -> sh installer.sh
 Provide your password if asked and restart Terminal
 Viola! You've installed the script. 
 
